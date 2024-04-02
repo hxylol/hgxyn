@@ -9,6 +9,8 @@ tags:
   - standard
 ---
 
+为什Vo Request需要序列化
+
 ```java
 /**
  * <p>
