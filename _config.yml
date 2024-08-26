@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 手離
+subtitle: "<ruby>恐縮<rt>きょうしゅく</rt></ruby>、<ruby>恐縮<rt>きょうしゅく</rt></ruby><br>お<ruby>施主<rt>せしゅ</rt></ruby>へ。<ruby>小職<rt>こじょく</rt></ruby>が<ruby>丹精<rt>たんせい</rt></ruby>込めて仕上げ中。気を<ruby>揉<rt>も</rt></ruby>まず、数日ゆるりとお待ちください"
 name: "Emond Hgxyn"
 email: 2089971698@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -23,6 +24,11 @@ minimal_mistakes_skin: dark
 search: true
 locale: zh-CN
 repository: hxylol/hgxyn.git
+logo: "/assets/images/svgviewer-output.svg"
+breadcrumbs: true
+enable_copy_code_button: true
+date_format: "%Y-%m-%d"
+
 
 # Build settings
 markdown: kramdown
@@ -99,6 +105,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
@@ -113,3 +120,13 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# comments:
+#   provider: "giscus"
+#   giscus:
+#     repo_id              : # Shown during giscus setup at https://giscus.app
+#     category_name        : # Full text name of the category
+#     category_id          : # Shown during giscus setup at https://giscus.app
+#     discussion_term      : # "pathname" (default), "url", "title", "og:title"
+#     reactions_enabled    : # '1' for enabled (default), '0' for disabled
+#     theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
