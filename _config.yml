@@ -23,7 +23,7 @@ github_username: hxylol
 minimal_mistakes_skin: dark
 search: true
 locale: zh-CN
-repository: hxylol/hgxyn.git
+repository: hxylol/hgxyn
 logo: "/assets/images/svgviewer-output.svg"
 breadcrumbs: true
 enable_copy_code_button: true
