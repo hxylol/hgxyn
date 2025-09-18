@@ -153,3 +153,7 @@ comments:
 #         async>
 # </script>
 # https://giscus.app/zh-CN
+
+sidebar:
+  nav:
+    - main

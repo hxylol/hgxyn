@@ -1,9 +1,18 @@
+# main:
+#   - title: "Posts"
+#     url: /posts/
+#   - title: "Categories"
+#     url: /categories/
+#   - title: "Tags"
+#     url: /tags/
+#   - title: "About"
+#     url: /about/
 main:
-  - title: "Posts"
+  - title: "<ruby>記事<rt>きじ</rt></ruby>"
     url: /posts/
-  - title: "Categories"
+  - title: "<ruby>分類<rt>ぶんるい</rt></ruby>"
     url: /categories/
-  - title: "Tags"
+  - title: "<ruby>印<rt>しるし</rt></ruby>"
     url: /tags/
-  - title: "About"
+  - title: "<ruby>About<rt>アバウト</rt></ruby>"
     url: /about/
