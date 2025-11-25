@@ -1,5 +1,5 @@
 ---
-title: "Post: 为什Vo Request需要序列化"
+title: "为什Vo Request需要序列化"
 last_modified_at: 2024-04-02 11:30:01 Tuesday
 categories:
   - Blog
