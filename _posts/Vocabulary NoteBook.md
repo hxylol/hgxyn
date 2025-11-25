@@ -1,0 +1,23 @@
+---
+title: "Vocabulary NoteBook"
+last_modified_at: 2025-11-25 17:06:42
+categories:
+  - English
+tags:
+  - English
+---
+
+Vocabulary NoteBook
+
+| Word | Meaning | Example Sentence |
+|------|------|------|
+| 2025/11/25| | |
+|essential|必不可少的|essential oils精油|
+|evolution|进化|Join the glorious evolution|
+|confine|监禁|He is confined to a wheelchair 他被困在轮椅上|
+|enterprise|企业|USS Enterprise企业号 敢于冒险、从无到有去开创精神|
+|concept|概念|proof of concept(POC)概念验证 concept car 概念车|
+|artificial|人造的|artifical intelligence(AI)|
+| 2025/11/24| | |
+|retrieve|检索|glodern retriever 金毛|
+||||
