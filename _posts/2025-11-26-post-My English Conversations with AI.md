@@ -10,10 +10,12 @@ tags:
 
 <!-- TOC -->
 
+- [2025-11-27](#2025-11-27)
+  - [***My Question 1(2025-11-27)***](#my-question-12025-11-27)
 - [2025-11-26](#2025-11-26)
-  - [***My Question 1***](#my-question-1)
-  - [***My Question 2***](#my-question-2)
-  - [***My Question 3***](#my-question-3)
+  - [***My Question 1(2025-11-26)***](#my-question-12025-11-26)
+  - [***My Question 2(2025-11-26)***](#my-question-22025-11-26)
+  - [***My Question 3(2025-11-26)***](#my-question-32025-11-26)
 - [templete](#templete)
   - [***My Question x***](#my-question-x)
 
@@ -29,9 +31,52 @@ On the other hand, I don’t want this practice to just come and go. I want to r
 
 Maybe it’s my tenses, maybe it’s the small details—whatever it is, I just want to capture my thoughts and emotions. That’s all.
 
+## 2025-11-27
+
+### ***My Question 1(2025-11-27)***
+
+>"What is your main goal for today?"
+>(你今天的主要目标是什么？)
+
+***My Answer***
+
+>what matters to me is study.
+>
+>i do not have project right now, so i don't have clear goal for recent days.
+>
+>just watch the document which the learning recourse of SAP Certified - SAP Generative AI Developer.
+>
+>to be honest, it' a little boring right now.my english word is lack when i see the technical document which it makes me sad.
+>
+>can you give me some advices which build knowledge easily and keep study enthusiasm .
+
+***The Native Version***
+
+>"What matters to me right now is studying.
+>
+>Since I don't have a project, I don't have clear goals for these days.
+>
+>I'm just reading the documentation, which is the resource for the 'SAP Generative AI Developer' certification.
+>
+>To be honest, it's a little boring. My vocabulary is limited when dealing with technical documents, which makes me feel frustrated (比 sad 更精准，表示有挫败感).
+>
+>Could you give me some advice on how to build knowledge easily and maintain my enthusiasm?"
+
+***My Mistake***
+
+1. is studying
+   1. > v+ing 作为名词
+2. which is the resource
+   1. Which 作为主语 后面接动词
+3. vocabulary
+   1. watch the document -> reading the documentation
+   2. my english word is lack -> My vocabulary is limited
+   3. see the technical document -> (I am)dealing with technical documents
+   4. makes me sad -> feel frustrated
+
 ## 2025-11-26
 
-### ***My Question 1***
+### ***My Question 1(2025-11-26)***
 
 >"Which programming language (or tool) do you use the most in your work, and how does it help you?"
 >
@@ -88,7 +133,7 @@ Maybe it’s my tenses, maybe it’s the small details—whatever it is, I just 
 >高级感: 你用了 "after that" (时间顺序)，我用了 "which allows you to" (逻辑因果)。
 >效果: 这种结构体现了 Java 的特性直接导致了后面的好结果，逻辑更紧密。
 
-### ***My Question 2***
+### ***My Question 2(2025-11-26)***
 
 >"Why do you think cloud technology (like SAP BTP) is important for modern businesses?"
 
@@ -141,7 +186,7 @@ Maybe it’s my tenses, maybe it’s the small details—whatever it is, I just 
 >如果我们用上 "so that" (复合句技巧)，这句话就会变成：
 >"You just pay cloud providers like AWS so that you don't need to worry about server maintenance."
 
-### ***My Question 3***
+### ***My Question 3(2025-11-26)***
 
 >"Do you think it is better to be a 'Full-stack Developer' (knows everything) or a 'Specialist' (expert in one specific area like SAP)? Why?"
 

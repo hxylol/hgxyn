@@ -11,6 +11,9 @@ Vocabulary NoteBook
 
 | Word | Meaning | Example Sentence |
 |------|------|------|
+| 2025/11/27| | |
+|prove|证明|However, I cannot prove my value unless you give me a chance to demonstrate it on a real project.|
+|emphasize|强调|What I want to emphasize is that learning agility is often more important than past experience|
 | 2025/11/26| | |
 |Leverage|利用/发挥杠杆作用||
 |capture|抓住||
