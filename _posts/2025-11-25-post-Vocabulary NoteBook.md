@@ -11,6 +11,12 @@ Vocabulary NoteBook
 
 | Word | Meaning | Example Sentence |
 |------|------|------|
+| 2025/11/26| | |
+|Leverage|利用/发挥杠杆作用||
+|capture|抓住||
+|alleged|所谓的||
+|evaluate|评价||
+|convenient|方便的||
 | 2025/11/25| | |
 |essential|必不可少的|essential oils精油|
 |evolution|进化|Join the glorious evolution|
