@@ -10,14 +10,22 @@ tags:
 
 <!-- TOC -->
 
+- [templete](#templete)
+  - [***My Question x***](#my-question-x)
+- [2025-12-01](#2025-12-01)
+  - [***My Question 1(2025-12-01)***](#my-question-12025-12-01)
+  - [***My Question 2(2025-12-01)***](#my-question-22025-12-01)
+  - [***My Question 3(2025-12-01)***](#my-question-32025-12-01)
+  - [***My Question 4(2025-12-01)***](#my-question-42025-12-01)
+- [2025-11-28](#2025-11-28)
+  - [***My Question 1(2025-11-28)***](#my-question-12025-11-28)
+  - [***My Question 2(2025-11-28)***](#my-question-22025-11-28)
 - [2025-11-27](#2025-11-27)
   - [***My Question 1(2025-11-27)***](#my-question-12025-11-27)
 - [2025-11-26](#2025-11-26)
   - [***My Question 1(2025-11-26)***](#my-question-12025-11-26)
   - [***My Question 2(2025-11-26)***](#my-question-22025-11-26)
   - [***My Question 3(2025-11-26)***](#my-question-32025-11-26)
-- [templete](#templete)
-  - [***My Question x***](#my-question-x)
 
 <!-- /TOC -->
 
@@ -30,6 +38,149 @@ On the one hand, I can speak bravely and confidently with AI, even though I migh
 On the other hand, I don’t want this practice to just come and go. I want to record something—to show me where my English can improve.
 
 Maybe it’s my tenses, maybe it’s the small details—whatever it is, I just want to capture my thoughts and emotions. That’s all.
+
+## templete
+
+### ***My Question x***
+
+***My Answer***
+
+***The Native Version***
+
+***My Mistake***
+
+## 2025-12-01
+
+### ***My Question 1(2025-12-01)***
+
+***My Answer***
+
+>ok let's go today english practice. i still don't receive the notification about interview. it make me very tired.i felt nervous and lack of energy last Friday.so just ignore it. stating my english learning.
+
+***The Native Version***
+
+>"I still ***haven't heard back*** about the interview, and it's really ***draining***. But I'm going to ***put it aside*** and start my English practice now."
+
+***My Mistake***
+
+1.从过去到现在一直没收到 -> 现在完成时 (Have/Has + done)
+2.累
+  1.如果只是普通累，直接用 tired。
+  2.想强调程度强，用 exhausted / drained / burnt out。
+  3.想表达心理或情绪累，可以用 stressed out / fed up。
+3.放在一边
+
+### ***My Question 2(2025-12-01)***
+
+>"What is the hardest part about learning English for you right now? Is it vocabulary, listening, or just being afraid to speak?"
+>(你觉得现在学英语最难的部分是什么？是单词、听力，还是仅仅是害怕开口？)
+
+***My Answer***
+
+>situation is very server.because whatever vocabulary, listening, or speak, both are hard. i usually forget the vocabulary which just remembered last week. because of this, i can't understand the listening. i afraid of making mistakes when speaking, so i don't have confidence in speaking.
+
+***The Native Version***
+
+>"To be honest, it's a ***tough*** situation. Vocabulary, listening, and speaking are ***ALL*** hard for me. I keep forgetting words I learned last week, so I can't understand what I hear. And because I'm afraid of making mistakes, I lose confidence when I speak."
+
+***My Mistake***
+
+1."Both" vs. "All" (两难 vs. 三难)
+2.艰难
+  1.tough / hard / challenging → 日常用，强调困难或挑战。
+  2.severe / arduous(长时间努力) / strenuous(强调体力) → 正式或书面用，更强调艰苦、费力或严重性。
+
+### ***My Question 3(2025-12-01)***
+
+>What is the name of the book? (书名是什么？)
+>提示: 这是一个事实，用一般现在时 (is...)
+>Why did you choose this book? (你为什么选这本书？)
+>提示: 这是一个过去的动作，选书是在以前发生的，用一般过去时 (chose / wanted...)
+
+***My Answer***
+
+>as your recommend i have choose the little prince. i think my english level is similar to child, maybe fairy tale is suit to my situation, i can start my reading instead of felling hard to difficult vocabulary.
+
+***The Native Version***
+
+>"As you recommended, I have chosen The Little Prince. I think my English level is similar to a child's, so maybe a fairy tale suits me better. This way, I can start reading without struggling with difficult vocabulary."
+
+### ***My Question 4(2025-12-01)***
+
+>"Have you seen that picture? Do you think it looks like a hat or a snake?"
+>(你看到那幅画了吗？你觉得它看起来像帽子还是蛇？)
+
+***My Answer***
+
+>oh absolutely. i think it looks like a hat. maybe i have been lost my childlike innocence. i just think about thing that appear in my life.lose imagination.
+
+***The Native Version***
+
+>"Absolutely. It looks like a hat to me. Maybe I have lost my childlike innocence and my imagination. Nowadays, I only focus on reality and the things happening in my daily life."
+
+***My Mistake***
+
+## 2025-11-28
+
+### ***My Question 1(2025-11-28)***
+
+>"Tell me about yourself." (介绍一下你自己。)
+>或者
+>"Walk me through your resume." (过一遍你的简历。)
+
+***My Answer***
+
+>thank for give me this opportunity to introduce myself.my name is Gregory. i have over 3 years of experience working with financial system for Japanese clients, where i was involved in the whole lifecycle for the system. through contributing to several large-scale system upgrades. i gained valuable experience in finance, such as data integration  and reporting processes. recently, i have transitioned into sap, especially cloud and ai .i joined CPI virtual project and study AWS and SAP AI by myself. with AWS SAA and SAP integration suite certifications, i believe that building and connecting cloud-native with ai system to essential for the future. finally, what i want to  emphasize is that learning agility is often more important than pass experience, i just need a.chance to prove my value and i'm eager to apply my financial knowledges and technical skills to contribute in your OneStream project.
+
+***The Native Version***
+>"First of all, thank you for giving me this opportunity to introduce myself. My name is Gregory.
+>I have over 3 years of experience working with financial systems for Japanese clients, where >I was involved in the full system development lifecycle.
+>By contributing to several large-scale system upgrades, I gained valuable experience in finance, specifically in data integration and reporting processes.
+>Recently, I have focused on SAP, cloud technology, and AI.
+>I joined a CPI virtual project and have been studying AWS and SAP AI on my own. I now hold the AWS SAA and SAP Integration Suite certifications.
+>I believe that connecting cloud-native tools with AI systems is essential for the future.
+>Finally, what I want to emphasize is that learning agility is often more important than past experience.
+>I just need a chance to prove my value. I am eager to leverage my financial knowledge and technical skills to contribute to your OneStream project."
+
+***My Mistake***
+
+1.Thank you for giving me... (介词 for 后面动词要加 ing)
+2.Financial knowledge (Knowledge 是不可数名词，永远不加 s！)
+3.Past experience
+4.is essential
+
+### ***My Question 2(2025-11-28)***
+
+>Give me an example of your learning ability.
+>
+>How do you learn new technologies
+
+***My Answer***
+
+***The Native Version***
+
+>"I pride myself on my learning agility. (我为我的敏捷学习能力感到自豪。)
+>Recently, my company started a transformation. instead of waiting, I took the initiative to learn SAP BTP and Cloud technologies on my own.
+>(Keyword: Took the initiative - 主动出击)
+>
+>Even though I didn't have a real project, I studied the documentation, used AI tools to help understand concepts, and built demo projects.
+>As a result, I passed the AWS and SAP certifications in a short time.
+>So, I am confident that I can get up to speed with OneStream very quickly using the same method."
+>Keyword: Get up to speed - 快速上
+>
+>
+>"I have a very practical approach to learning. (我有一套非常务实的学习方法。)
+>First, I read the official documentation to understand the core logic.
+>Then, I immediately move to the hands-on phase. I build small demos to test what I learned.
+>For example, when learning AI, I didn't just read theories. I tried to write code to call APIs and integrate them.
+>I believe this 'Learning by Doing' style fits perfectly with the OneStream role. I won't just ask questions; I will try to find answers myself first."
+>(Keyword: Learning by doing - 干中学)
+
+***My Mistake***
+
+1.Steep learning curve (陡峭的学习曲线 = 很难学)"I am not afraid of a steep learning curve." (我不怕东西难学。)
+2.Self-driven (自驱的):"I am a self-driven learner." (不用别人逼我，我自己学。)
+3."I aim to become productive as soon as possible."
 
 ## 2025-11-27
 
@@ -233,13 +384,3 @@ Maybe it’s my tenses, maybe it’s the small details—whatever it is, I just 
 3."Base" vs "Background"
 >你说的: "java base"
 >纠正: 我们通常说 "Java background" (Java背景) 或者 "Knowledge of Java"。
-
-## templete
-
-### ***My Question x***
-
-***My Answer***
-
-***The Native Version***
-
-***My Mistake***
