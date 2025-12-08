@@ -12,6 +12,14 @@ tags:
 
 - [templete](#templete)
   - [***My Question x***](#my-question-x)
+- [2025-12-03](#2025-12-03)
+  - [***My Question 1(2025-12-03)***](#my-question-12025-12-03)
+  - [🌐 My Blog \& Languages: English Correction](#-my-blog--languages-english-correction)
+  - [***My Question 2(2025-12-03)***](#my-question-22025-12-03)
+  - [🎨 Blog Design: English Correction](#-blog-design-english-correction)
+- [2025-12-02](#2025-12-02)
+  - [***My Question 1(2025-12-02)***](#my-question-12025-12-02)
+  - [***My Question 2(2025-12-02)***](#my-question-22025-12-02)
 - [2025-12-01](#2025-12-01)
   - [***My Question 1(2025-12-01)***](#my-question-12025-12-01)
   - [***My Question 2(2025-12-01)***](#my-question-22025-12-01)
@@ -47,7 +55,114 @@ Maybe it’s my tenses, maybe it’s the small details—whatever it is, I just 
 
 ***The Native Version***
 
+***Comparison Time***
+
+## 2025-12-03
+
+### ***My Question 1(2025-12-03)***
+
+>"Do you write your blog in Chinese or English? And if you have technical followers, are you afraid they will laugh at your English grammar?"
+>(你的博客是用中文写还是英文写？如果你有技术圈的粉丝，你会担心他们嘲笑你的英语语法吗？)
+
+***My Answer***
+
+>i use 3 type of languages to write my blog by Chinese English and Japanese. My native speak is Chinese, so it's not surprise. i have over 5 years of experiences working with Japanese project, my past Blog almost used Japanese to recorded. Recently, i have forced on English, So i try to leverage english to share my Blog. the second question, i don't have any fans, my Blog is created on the Github, just like my notebook On the internet. i can edit it everywhere which convenient for me.
+
+***The Native Version***
+
+>"I write my blog in three languages: Chinese, English, and Japanese.
+>Since Chinese is my native language, that's no surprise. However, I also have over 5 years of experience working on Japanese projects, so my past posts were mostly written in Japanese.
+>Recently, I have focused on English, so I am trying to use it more for my blog.
+>I don't really have an audience yet. My blog is hosted on GitHub, acting just like my personal online notebook. I can edit it from anywhere, which is very convenient."
+
+***Comparison Time***
+
+### 🌐 My Blog & Languages: English Correction
+
+| 你的原话 (Original) | 地道修正版 (Native Version) | 💡 关键修改点 (Key Notes) |
+| :--- | :--- | :--- |
+| **i use 3 type of languages to write my blog** | I write my blog in **three languages**: | "3 types of" 有点啰嗦，直接说 "in three languages". |
+| **My native speak is Chinese** | My **native language** (or **mother tongue**) is Chinese, | **Speak** 是动词；**Language** 才是名词。 |
+| **so it's not surprise.** | so **it's no surprise**. | 固定搭配: It's **no** surprise. |
+| **i have over 5 years of experiences** | I have over 5 years of **experience**. | **Experience** 表示“经验”时是不可数名词 (Uncountable)，不加 s。 |
+| **my past Blog almost used Japanese to recorded.** | ...and my past blog posts were **mostly written in Japanese**. | "Used Japanese to recorded" 语法混乱，用被动语态 "were written" 更顺。 |
+| **Recently, i have forced on English,** | Recently, I have **focused on** English. | ❌ **Forced** (强迫) -> ✅ **Focused** (专注). |
+| **So i try to leverage english to share my Blog.** | ...so I'm trying to **use English** for my blog. | "Leverage" (杠杆/利用) 有点太商业了，**Use** 更自然。 |
+| **i don't have any fans,** | I don't have **an audience** / **any followers** yet, | "Fans" 听起来像娱乐明星，博主通常说 Audience/Followers。 |
+| **my Blog is created on the Github,** | but my blog is **hosted on GitHub**. | 放在网上通常用 **Hosted**；GitHub前通常不加 "the"。 |
+| **i can edit it everywhere which convenient for me.** | I can edit it **from anywhere**, **which is** convenient for me. | Everywhere 是地点，From anywhere 是来源；缺少了连接词 **which is**。 |
+
+### ***My Question 2(2025-12-03)***
+
+>你在 GitHub 上搭建博客用的是什么技术栈？是 Jekyll, Hexo, Hugo, 还是你自己写的静态页面？
+
+***My Answer***
+
+>i use Jekyll & Minimal Mistakes.but i have some .. i don't know how to say it like maybe the frontend should be more cooler.right now it's looks a little boring. i can easily write posts by markdown, i can build smoothly by Github action. maybe i can do some change on it. can you give me some advice?
+
+***The Native Version***
+
+***Comparison Time***
+
+### 🎨 Blog Design: English Correction
+
+| 你的原话 (Original) | 地道修正版 (Native Version) | 💡 关键修改点 (Key Notes) |
+| :--- | :--- | :--- |
+| **but i have some .. i don't know how to say it** | but I have some... **thoughts**, or I'm not sure how to put it. | 当你卡壳时，可以用 "thoughts" 或者 "doubts" 来填补。 |
+| **maybe the frontend should be more cooler.** | Maybe the frontend should be **cooler**. | ❌ **More cooler** (更更酷) -> ✅ **Cooler**. (不要叠用比较级！) |
+| **right now it's looks a little boring.** | Right now **it looks** a little boring. | ❌ **It's (It is) looks** -> ✅ **It looks**. (系动词不能和实义动词打架)。 |
+| **i can easily write posts by markdown,** | I can easily write posts **in** Markdown, | 用某种语言/格式，通常用介词 **in**。 |
+| **i can build smoothly by Github action.** | and it **builds** smoothly **with** GitHub Actions. | 工具通常用 **with**；GitHub Actions 通常用复数。 |
+| **maybe i can do some change on it.** | Maybe I can **make some changes** to it. | ❌ **Do change** -> ✅ **Make changes**. (固定搭配)。 |
+
+## 2025-12-02
+
+### ***My Question 1(2025-12-02)***
+
+***My Answer***
+
+>hello hello.wake up.it's time to today's english practice. i have finished the interview last day.it' over.the interviewer evaluate me you have development experience that ok, but your account is cnglish. if you want to join the project, you should prove your english, make more practice. oh to be honest, it a bad single for me does't it? all is pass, just practice english! when you feedback, i will try to answer the question if you have your own small planet.
+
+***The Native Version***
+
+>"Hello, hello! Wake up! ***It's time for today's*** English practice.
+>I ***finished*** the interview the other day. It's ***finally*** over. The interviewer said my development experience is good, but my accent is a bit 'Chinglish.'
+>He told me that if I want to join the project, I need to prove my English skills and practice more.
+>To be honest, that's a bad ***sign, isn't it?*** But ***what's done is done*** (过去的事就过去了). I just need to practice!
+>After your feedback, I'll try to answer the question about the small planet."
+
 ***My Mistake***
+
+1. It's time for... 是固定搭配。
+2. 有具体时间(last day/yesterday)必须用一般过去时，不能用 Have finished
+3. 加个 finally (终于) 能体现出如释重负的感觉。
+4. Evaluate 是动词，这里用 said 引述更自然。
+5. Accent (口音)  Practice (Practice本身就是动词)。Sign (信号) Feedback 通常作名词用.
+
+### ***My Question 2(2025-12-02)***
+
+>"If you had your own small planet, what would be on it?"
+
+***My Answer***
+>first of all, i will build a security protect on my planet. maybe the protect have some "mistakes". you know, a little bit surprises is good for my life.maybe meet someone and so on. second, i need music, music can make me calm down, let me fell happiness. third, maybe build some gym, i like exercise, when i do exercise, i can don't think everything, i can keep piece.
+
+***The Native Version***
+>"If I had my own planet, first, I would build a security system.
+>But maybe the system would have some glitches on purpose. You know, a few surprises are good for life—I might meet someone!
+>Second, I need music. Music makes me calm down and helps me feel happy.
+>Third, I would build a gym. I like exercise. When I work out, I can stop thinking about everything and find my inner peace."
+
+***Comparison Time***
+
+| 你的原话 (Original) | 地道修正版 (Native Version) | 💡 关键修改点 (Key Notes) |
+| :--- | :--- | :--- |
+| **if i have a own planet.** | If I **had my own** planet... | 虚拟语气通常用 had；"A own" ❌ -> "**My own**" ✅. |
+| **i will build a security protect on my planet.** | I would build a **security system** (or **shield**) on it. | **Protect** 是动作(动词)；**Protection** 或 **System** 才是东西(名词)。 |
+| **maybe the protect have some "mistakes".** | Maybe the **system** would have some "**glitches**" or "**loopholes**". | 机器出的错通常叫 **Glitches**；规则漏洞叫 **Loopholes**。 |
+| **you know, a little bit surprises is good for my life.** | You know, a few **surprises are** good for my life. | Surprises 是复数 -> 用 **are**。 |
+| **let me fell happiness.** | ...and let me **feel** happy. | ❌ **Fell** (掉下/砍伐) -> ✅ **Feel** (感觉)。 |
+| **i can don't think everything,** | ...so I **can stop thinking about** everything, | ❌ **Can don't** (语法错误) -> ✅ **Can stop thinking**. |
+| **i can keep piece.** | ...and I can **find peace**. | ❌ **Piece** (一片) -> ✅ **Peace** (和平/宁静)。 |
 
 ## 2025-12-01
 

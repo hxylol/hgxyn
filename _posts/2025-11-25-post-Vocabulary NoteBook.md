@@ -11,6 +11,10 @@ Vocabulary NoteBook
 
 | Word | Meaning | Example Sentence | POS |
 |------|---------|------------------|------|
+| 2025/12/08 | | | |
+| itinerary | 行程安排；旅行计划   | I checked my itinerary before the trip.      | noun         |
+| fuzzy     | 模糊的；不清晰的    | The photo was too fuzzy to recognize anyone. | adjective    |
+| hopped on | 跳上；登上（车、船等） | We hopped on the bus just before it left.    | phrasal verb |
 | 2025/12/03 | | | |
 | Facility  | 设施；设备   | The company manages all building facilities.             | noun                  |
 | Complaint | 投诉      | We received a complaint about the air conditioning.      | noun                  |
